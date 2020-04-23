@@ -5,5 +5,8 @@ end
 
 ## Comment the below back in to see method scope in action!
 
-# rescue_princess_peach
-# puts status
+
+describe "#catch_phrase" do 
+it "puts out a catch phrase" do 
+phrase = "It's-a me, Mario!
+
