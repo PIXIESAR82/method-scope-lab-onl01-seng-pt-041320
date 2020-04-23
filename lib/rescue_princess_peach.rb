@@ -6,7 +6,7 @@ end
 ## Comment the below back in to see method scope in action!
 
 
- def describe "#catch_phrase" do
+describe "#catch_phrase" do
 it "puts out a catch phrase" do
 phrase = "It's-a me, Mario!"
 end
