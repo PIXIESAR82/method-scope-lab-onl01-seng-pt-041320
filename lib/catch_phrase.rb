@@ -5,5 +5,5 @@ end
 describe "#{catch_phrase}" do
   it "puts out catch phrase" do
     phrase = "It's-a me, Mario!"
-  end 
+  end
 end
